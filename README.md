@@ -1,4 +1,4 @@
-👋 Hi, I’m Adrián "Eze" Angió 
+👋 Hi, I’m Adrián "Eze" Angió.
 I’m an 👨‍🎓 Electronics Engineer with postgraduate degree in Python programming and Full Stack Developer from 🇦🇷. I'm Sr. developer with C and Assembler (embedded devices) and Jr. with Python + Django, Java and JavaScript.
 
 <!--
