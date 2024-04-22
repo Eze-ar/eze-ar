@@ -1,5 +1,5 @@
 👋 Hi, I’m Adrián "Eze" Angió 
-I’m an 👨‍🎓 Electronics Engineer with postgraduate degree in Python programming and Fullstack Developer from 🇦🇷. I'm Sr. developer with C and Assembler (embedded devices) and Jr. with Python, Java and JavaScript.
+I’m an 👨‍🎓 Electronics Engineer with postgraduate degree in Python programming and Full Stack Developer from 🇦🇷. I'm Sr. developer with C and Assembler (embedded devices) and Jr. with Python + Django, Java and JavaScript.
 
 <!--
 **Eze-ar/eze-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
